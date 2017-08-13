@@ -1,4 +1,4 @@
-ACLOCAL_AMFLAGS = -I build-aux/m4
+# ACLOCAL_AMFLAGS = -I build-aux/m4
 
 lib_LTLIBRARIES = libsecp256k1.la
 include_HEADERS = include/secp256k1.h
